@@ -1,8 +1,16 @@
-# React + Vite + Redux Toolkit
+# React product app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules and using Redux Toolkit instead of Context.
+## Hi everyone
+#### in this project i developed a shop app using redux toolkit and also api from [here](https://fakestoreapi.com/)
+  ![main page](/shop-image/React-Store-Project.png "project") 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### features: 
+### 1. you can see the details of each product 
+![category](/shop-image/category.png "category")
+<br/>
+### 2. you can add item to checkout
+  ![checkout](/shop-image/checkout.png "checkout")
+<br/>
+### 3. you can search your item with input and also category
+  ![search](/shop-image/search.png "search")
+<br/>
